@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeu_site=self.webpackChunkmeu_site||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/meuportal-test/blog","blogTitle":"Blog","authorsListPath":"/meuportal-test/blog/authors"}')}}]);
